@@ -6,7 +6,7 @@
 <a href="https://falgunbokde23.github.io/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ArjunSinghBhakunirohi.vercel.app" />
 </a>
-<a title="falgunbokde@gmail.com" href="mailto:sadrimufadal@gmail.com">
+<a title="falgunbokde@gmail.com" href="mailto:falgunbokde@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
 </a>
 <a href="https://www.linkedin.com/in/falgun-bokde-93108b189/">
