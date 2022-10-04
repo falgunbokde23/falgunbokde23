@@ -53,13 +53,14 @@
 <a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" /></a>
 <br/><br/>
 <p display="flex" align="center">
-<a href="#"><img alt="falgun's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgunbokde23&hide=smalltalk&theme=algolia&layout=compact" width="400" /></a>
 
+  
+  
+  # 📊 GitHub Stats:
+<p align="left">
 
-
-  <a href="https://github.com/falgunbokde23?tab=repositories">
-    <img width="400" height="auto"  alt="falgun's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=falgunbokde23&show_icons=true&theme=algolia&count_private=true" />
-  </a>
-  </p>
- <div  align="center" style="display: flex; justify-content:"center" ><a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=falgunbokde23&hide=smalltalk&theme=algolia&layout=compact" alt="Mufadal Sadri" /></a></div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=falgunbokde23&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=falgunbokde23&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgunbokde23&theme=default" align="center" />
+</p>
