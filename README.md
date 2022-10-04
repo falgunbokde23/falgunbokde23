@@ -50,7 +50,7 @@
 </p>
 <br>
 
-<a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake"  align="center"  /></a>
 <br/><br/>
 <p display="flex" align="center">
 
