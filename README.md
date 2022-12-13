@@ -25,9 +25,9 @@
 - 🔭 I’m currently Looking to contiribute to new projects 
 - 🌱 I’m currently learning **Backend**
 - 💻 I'm passionate about making creative websites.
-- 💬 Ask me about **Web | Travel**
+- 💬 Ask me about ***Web | Travel***
 - 💬  My portfolio is [(https://falgunbokde23.github.io/)]
-- 📫 How to reach me **falgunbokde@gmail.com**
+- 📫 How to reach me ***falgunbokde@gmail.com***
 
 
 <br/>
@@ -57,22 +57,6 @@
 <br/><br/>
 <p display="flex" align="center">
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   # 📊 GitHub Stats:
 <p align="left">
