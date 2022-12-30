@@ -1,4 +1,3 @@
-
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋, I'm <i>Falgun Bokde</i></h1>
 <h3 align="center">A self-motivated and ambitious Java Backend Developer , Passion-driven learner with the ability to write clean, reusable, optimised code. Skilled and experienced at building and maintaining Java based web applications. Looking forward to joining a progressive and challenging work environment.</h3>
 <br/>
@@ -21,24 +20,13 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=falgunbokde23&label=Profile%20views&color=0e75b6&style=flat" alt="falgunbokde23" /> </p>
 
 
-
 - 🔭 I’m currently Looking to contiribute to new projects 
 - 🌱 I’m currently learning **Backend**
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about ***Web | Travel***
 - 💬  My portfolio is [(https://falgunbokde23.github.io/)]
 - 📫 How to reach me ***falgunbokde@gmail.com***      
-
-
-
-
-
-
-
-
 <br/>
-
-
 <br/>
 
 <h2><i>Tech Stack</i></h2>
@@ -70,12 +58,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=falgunbokde23&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgunbokde23&theme=default" align="center" />
 </p>
-
-
-
-
-
-
-
-
-
