@@ -28,6 +28,7 @@
 - 💬  My portfolio is [(https://falgunbokde23.github.io/)]
 - 📫 How to reach me ***falgunbokde@gmail.com***      
 <br/>
+
 <br/>
 
 <h2><i>Tech Stack</i></h2>
