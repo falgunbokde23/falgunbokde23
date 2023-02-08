@@ -14,12 +14,9 @@
 <br/>
 <br/>
 <a href="#"><img align="right" width="350px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" alt="gif" /></a>
-
 <br/>
 
-
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=falgunbokde23&label=Profile%20views&color=0e75b6&style=flat" alt="falgunbokde23" /> </p>
-
 
 - 🔭 I’m currently Looking to contiribute to new projects 
 - 🌱 I’m currently learning **Backend**
@@ -32,7 +29,6 @@
 <br/>
 
 <h2><i>Tech Stack</i></h2>
-
 
 <p>
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
@@ -53,8 +49,6 @@
 <br/><br/>
 <p display="flex" align="center">
 
-  
-  
   # 📊 GitHub Stats:
 <p align="left">
 
@@ -63,6 +57,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=falgunbokde23&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgunbokde23&theme=default" align="center" />
 </p>
-
-
-
