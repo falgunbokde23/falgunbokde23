@@ -51,10 +51,17 @@
 
   # 📊 GitHub Stats:
 <p align="left">
+  
+   <h1 style="text-align: center; margin-bottom: 15px;">My Github Contribution</h1><br>
+        <h3>Profile Views On Github  : <img src="https://komarev.com/ghpvc/?username=falgunbokde23&label=Profile%20views&color=0e75b6&style=flat" alt="falgunbokde23" /> </h3> <br>
+        <div class="calendar">
+            <!-- Loading stuff -->
+            Loading the data just for you.
+        </div>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=falgunbokde23&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=falgunbokde23&theme=default" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=falgunbokde23&theme=default" /> -->
 <!--     <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=falgunbokde23&hide=smalltalk&theme=algolia&layout=compact" alt="Falgun Bokde" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgunbokde23&theme=default" align="center" />
 
