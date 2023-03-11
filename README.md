@@ -54,15 +54,10 @@
 
   # 📊 GitHub Stats:
 <p align="left">
-  
-
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=falgunbokde23&show_icons=true&theme=default" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=falgunbokde23&theme=default" /> 
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgunbokde23&theme=default" align="center" />
 
- 
-  
 </p>
