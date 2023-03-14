@@ -26,7 +26,6 @@
 - 📫 How to reach me ***falgunbokde@gmail.com***      
 <br/>
 <br/>
-
 <h2><i>Tech Stack</i></h2>
 //this file is made by falgun manoj bokde pls ask me before copying 
 
