@@ -1,5 +1,5 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋, I'm <i>Falgun Bokde</i></h1>
-<h3 align="center">A self-motivated and ambitious Java Backend Developer , Passion-driven learner with the ability to write clean, reusable, optimised code. Skilled and experienced at building and maintaining Java based web applications. Looking forward to joining a progressive and challenging work environment.</h3>
+<h3 align="center">A self-motivated and ambitious Java Backend Developer , Passion-driven learner with the ability to write clean, reusable, optimised code. Skilled and experienced at building and maintaining Java based web applications. Right now working in Salesken.ai </h3>
 <br/>
 <br/>
 <a href="https://falgunbokde23.github.io/">
@@ -19,7 +19,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=falgunbokde23&label=Profile%20views&color=0e75b6&style=flat" alt="falgunbokde23" /> </p>
 
 - 🔭 I’m currently Looking to contiribute to new projects 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently Experienced with **Frontend && Backend**
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about ***Web | Travel***
 - 💬  My portfolio is [(https://falgunbokde23.github.io/)]
@@ -45,7 +45,7 @@
 </p>
 <br>
 
-<a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake"  align="center"  /></a>
+<!-- <a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake"  align="center"  /></a> -->
 <br/><br/>
 <p display="flex" align="center">
 
