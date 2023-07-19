@@ -24,7 +24,7 @@
 - 💬 Ask me about ***Web | Travel***
 - 💬  My portfolio is [(https://falgunbokde23.github.io/)]
 - 📫 How to reach me ***falgunbokde@gmail.com***
-- - 📄 Know about my experiences [RESUME]([https://drive.google.com/file/d/1an8ujiJPzdpQHGna9S7vLBWmv_JZQvbF/view](https://drive.google.com/file/d/1L0_5ynlqHyB5wE1ahVZBtypmrcXxKTYo/view?usp=sharing))  
+- - 📄 Know about my experiences [RESUME]([https://drive.google.com/file/d/1L0_5ynlqHyB5wE1ahVZBtypmrcXxKTYo/view])  
 - My Office GtHub acccount **<a href="https://github.com/falgun-sk">falgun-sk</a>**
 <br/>
 <br/>
